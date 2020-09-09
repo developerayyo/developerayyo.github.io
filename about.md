@@ -5,7 +5,9 @@ permalink: /about/
 published: true
 ---
 
-I’m a CS Undergrad and Backend Web Developer living in Nigeria. I am a fan of technology, programming, and web development. I’m also interested in innovation and education.
+![cover](images/cover.gif)
+
+> I’m a CS Undergrad and Backend Web Developer living in Nigeria. I am a fan of technology, programming, and web development in general. I’m also interested in innovation and education.
 
 ### More Information
 
