@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 published: true
 ---
 
-Some information about you!
+I’m a CS Undergrad and Backend Web Developer living in Nigeria. I am a fan of technology, programming, and web development. I’m also interested in innovation and education.
 
 ### More Information
 
