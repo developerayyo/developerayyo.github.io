@@ -12,7 +12,7 @@ published: true
 > I’m a CS Undergrad and Backend Web Developer from Nigeria. I am a fan of technology, programming, and web development in general. I’m also interested in innovation and education.
 
 
-## 🔧 Technologies & Tools
+<h2>🔧 Technologies & Tools</h2>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vs_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Stack-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
