@@ -44,7 +44,7 @@ I enjoy been challenged and engaging with projects that requires me to work outs
 
 ## Resume
 
-[Link to my Resume](https://https://registry.jsonresume.org/developerayyo)
+[Link to my Resume](https://registry.jsonresume.org/developerayyo)
 
 ## Other Links
 
