@@ -7,7 +7,7 @@ layout: default
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <h5 class="date">{{ post.date | date_to_string }} - {{ post.author }}</h5>
-      <img src="{{ post.header-image }}" alt="post-header-image" style="height:200px;">
+      <img class="post-header-image" src="{{ post.header-image }}" alt="post-header-image">
       <div class="entry">
         {{ post.excerpt }}
       </div>
