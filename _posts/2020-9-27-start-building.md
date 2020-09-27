@@ -2,7 +2,7 @@
 layout: post
 author: Peter Babalola
 title: Drop Tutorial Paralysis And Start Building!
-header-image: "images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
+header-image: "{{ site.baseurl }}/images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
 published: true
 tags:
     - beginner
@@ -10,8 +10,6 @@ tags:
     - developer
 date: 2020-09-27 10:00:00
 ---
-
-![_config.yml]({{ site.baseurl }}/images/emile-perron-xrVDYZRGdw4-unsplash.jpg)
 
 Most of the times, People gets started in the world of programming with one
 tutorial or the other. Tutorials are great because it helps beginners grab new
