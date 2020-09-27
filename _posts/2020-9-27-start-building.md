@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Peter Babalola
 title: Drop Tutorial Paralysis And Start Building!
 published: true
 ---
