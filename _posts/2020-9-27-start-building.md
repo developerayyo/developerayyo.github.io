@@ -2,7 +2,7 @@
 layout: post
 author: Peter Babalola
 title: Drop Tutorial Paralysis And Start Building!
-header-image: "{{ site.baseurl }}/images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
+header-image: "images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
 published: true
 tags:
     - beginner
