@@ -7,9 +7,7 @@ published: true
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Header](https://raw.githubusercontent.com/developerayyo/developerayyo/master/cover3.gif)
-
-I’m a CS Undergrad, Devops Software Engineer and Web Developer from Nigeria. I am a fan of technology, programming, software and web development in general. I’m also interested in innovation and education.
+I’m a CS Undergrad, Devops Engineer and Full Stack Web Developer. I am a fan of technology, programming, software and web development in general. I’m also interested in innovation and education.
 
 
 <h2>🔧 Skills, Technologies & Tools</h2>
