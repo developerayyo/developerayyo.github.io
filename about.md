@@ -52,4 +52,4 @@ Link to my portfolio, resumes, social media, etc can be forund [here](https://li
 
 <a href="tel:+17864653860">(786)-465-3860</a>
 
-[hello@peterbabalola.com](mailto:mail@peterbabalola.com)
+[mail@peterbabalola.com](mailto:mail@peterbabalola.com)
